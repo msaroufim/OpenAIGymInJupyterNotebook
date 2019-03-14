@@ -8,7 +8,7 @@ You tell your spouse, friends and family that you're going to get into ARTIFICIA
 
 You download Tensorflow and Open AI gym because you figure that's what you're supposed to use, you punch in a few commands in your terminal and get this.
 
-![Let the tears flow](Capture.png)
+![Let the tears flow](Capture.PNG)
 
 You cry, maybe you're not smart after all. Maybe your 8th grade math teacher was right about you all along. You flake from going to your friends party because you can't address the shame of failure, especially after hyping up your ambitions so much. Maybe you're already where you're supposed to be and maybe it's better to have people that are smarter than you do ARTIFICIAL INTELLIGENCE stuff.
 
